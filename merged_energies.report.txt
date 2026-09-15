@@ -1,0 +1,34 @@
+orig: 19496 entries, 19496 unique ids, 0 unparsable lines
+ip: 19492 entries, 19492 unique ids, 0 unparsable lines
+opt: 19487 entries, 19487 unique ids, 0 unparsable lines
+
+Total distinct ligand ids across all 3 tables: 19496
+Complete rows (present in all 3, no duplicates): 19487
+Incomplete/flagged rows: 9
+
+--- Missing from orig (0) ---
+
+
+--- Missing from ip (4) ---
+4w55A
+4w55B
+4w57A
+4w57B
+
+--- Missing from opt (9) ---
+1esz
+1k2v
+4dcy
+4fil
+4w55A
+4w55B
+4w57A
+4w57B
+6e4v
+
+--- Duplicate ids within orig table (0) ---
+
+--- Duplicate ids within ip table (0) ---
+
+--- Duplicate ids within opt table (0) ---
+
